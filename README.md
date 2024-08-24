@@ -2,7 +2,6 @@
 
 ## Description:
 Healthcare Management System tailored for a small clinic.
-This project will involve state management, form handling, and a patient portal.
 
 ## Table of Contents
 - Installation
@@ -29,7 +28,10 @@ To set up the project locally, follow these steps:
     ```
 
 ## Functionalities
-
+1. dashboard displays key healthcare metrics and patient insights.
+2. Patient Form and Appointment Form
+3. Display All patients
+4. Display Patient Portal for each patient
 
 ## Contributing
 Guidelines for contributing to the project:
